@@ -4,7 +4,7 @@
 
 You can find me here too 👇
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmandelle&show_icons=true&theme=radical)
+
 
 ## Tech stack
 
