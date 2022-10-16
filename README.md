@@ -41,7 +41,6 @@ You can find me here too 👇
 
 # Work In Progress 👇
 
-![Snake_animation](https://github.com/carlosmandelle/carlosmandelle/blob/output/github-contribution-grid-snake.svg)
 
 
 
