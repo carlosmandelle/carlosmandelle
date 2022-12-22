@@ -2,9 +2,20 @@
 
 <img src="https://komarev.com/ghpvc/?username=carlosmandelle&color=yellow" alt="Profile views" /> 
 
+
+ Sou Desenvolvedor e Instrutor FullStack focado em ajudar as pessoas a começarem a programar!
+
+ 💻 Sou membro do
+
+🤘 Atualmente estou trabalhando 
+
+
 You can find me here too 👇
 
 
+<a href="https://www.linkedin.com/in/kalombola/" target="_blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+</a>  
 
 ## Tech stack
 
