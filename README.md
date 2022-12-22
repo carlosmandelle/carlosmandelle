@@ -3,11 +3,11 @@
 <img src="https://komarev.com/ghpvc/?username=carlosmandelle&color=yellow" alt="Profile views" /> 
 
 
- Sou Desenvolvedor e Instrutor FullStack focado em ajudar as pessoas a começarem a programar!
+ Sou formado em Engenharia Civil, com enfase em Ciência e Tecnologia de Materiais!
 
- 💻 Sou membro do
+🤘 Atualmente sou estudante do curso de Bacharelado em Ciência de Dados pela UNIVESP!
 
-🤘 Atualmente estou trabalhando 
+💻 Sou membro do
 
 
 You can find me here too 👇
